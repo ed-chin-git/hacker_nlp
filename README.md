@@ -1,5 +1,3 @@
-# DataScienceStuff
-
 ## Salty Trolls Project  - Sentiment Analyzer
 
 This a Flask application that provides a connection to the Hacker News Database in Google using the Google BigQuery API.
