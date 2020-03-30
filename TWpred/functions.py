@@ -1,6 +1,11 @@
+'''
+P A C K A G E S 
 # pip install google-cloud-bigquery
 # pip install pandas
 # pip install textblob
+
+I M P O R T S
+'''
 import re
 import sys
 import pandas as pd
